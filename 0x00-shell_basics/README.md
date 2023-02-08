@@ -13,3 +13,4 @@
 12-type of file iamafile
 13-symbolic link to bin/ls
 14-copy html docs from current to parent dir
+15-move all files beginning with uppercase to tmp/u directory
