@@ -10,5 +10,5 @@
 9-removes my first directory
 10-changes working directory to previous
 11-list all files including hidden files
-12-
+12-type of file iamafile
 13-
