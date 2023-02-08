@@ -6,3 +6,9 @@
 5-Sixth script list files with user id.
 6-7th script adds new directory to tmp directory
 7-8th moves betty file to my first directory
+8-9th deletes betty from tmp
+9-
+10-
+11-
+12-
+13-
