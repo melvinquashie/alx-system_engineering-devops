@@ -5,3 +5,4 @@
 4-Fifth script lists all hidden files in long format. 
 5-Sixth script list files with user id.
 6-7th script adds new directory to tmp directory
+7-8th moves betty file to my first directory
