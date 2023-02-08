@@ -7,7 +7,7 @@
 6-7th script adds new directory to tmp directory
 7-8th moves betty file to my first directory
 8-9th deletes betty from tmp
-9-
+9-removes my first directory
 10-
 11-
 12-
