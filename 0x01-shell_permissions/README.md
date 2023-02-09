@@ -12,3 +12,7 @@ permissions readme
 10-sets mode of hello as that of olleh
 11-adds execute to all sub directories
 12-makes directory my_dir with 751 permission
+13-change group owner of hello to school
+14-
+15-
+16-
