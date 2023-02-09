@@ -9,6 +9,6 @@ permissions readme
 7-execute to everyone
 8-only other users can do it all
 9--rwxr-x-wx
-10-
+10-sets mode of hello as that of olleh
 11-
 12-
