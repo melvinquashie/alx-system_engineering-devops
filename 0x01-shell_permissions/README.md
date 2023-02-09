@@ -11,4 +11,4 @@ permissions readme
 9--rwxr-x-wx
 10-sets mode of hello as that of olleh
 11-adds execute to all sub directories
-12-
+12-makes directory my_dir with 751 permission
