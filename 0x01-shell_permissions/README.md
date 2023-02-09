@@ -8,7 +8,7 @@ permissions readme
 6-execute to file onwer and group owner and only read to others
 7-execute to everyone
 8-only other users can do it all
-9-
+9--rwxr-x-wx
 10-
 11-
 12-
