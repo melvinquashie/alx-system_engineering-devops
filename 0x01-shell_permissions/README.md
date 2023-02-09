@@ -13,6 +13,6 @@ permissions readme
 11-adds execute to all sub directories
 12-makes directory my_dir with 751 permission
 13-change group owner of hello to school
-14-
+14-change owner and grp owner for all in working directory
 15-
 16-
