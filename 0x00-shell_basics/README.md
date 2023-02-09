@@ -16,5 +16,5 @@
 15-move all files beginning with uppercase to tmp/u directory
 16-removes all files that end in ~
 17-creates directories welcome, welcome/to and welcome/to/school
-18-
+18-command that lists all the files and directories of the current directory, separated by commas (,)
 19-
