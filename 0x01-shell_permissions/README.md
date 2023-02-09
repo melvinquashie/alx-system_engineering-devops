@@ -10,5 +10,5 @@ permissions readme
 8-only other users can do it all
 9--rwxr-x-wx
 10-sets mode of hello as that of olleh
-11-
+11-adds execute to all sub directories
 12-
