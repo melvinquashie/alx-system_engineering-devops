@@ -7,5 +7,18 @@
 6-prints 3rd line of iacta
 7-create file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8-ls -la into ls_cwd_content
-9-
+9-duplicate last line of iacta
+10-
+11-
+12-
+13-
+14-
+15-
+16-
+17-
+18-
+19-
+20-
+21-
+
 
