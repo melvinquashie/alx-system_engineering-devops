@@ -19,6 +19,6 @@
 18-display all lines starting with a letter
 19-replace A with Z and c with e
 20-remove C and c
-21-
+21-reverse input
 
 
