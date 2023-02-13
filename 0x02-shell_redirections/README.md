@@ -14,7 +14,7 @@
 13-sorts out unique words
 14-display lines with "root" in file
 15-count number of time 'bin' is in the text
-16-
+16-display line with "root" and 3 lines after
 17-
 18-
 19-
