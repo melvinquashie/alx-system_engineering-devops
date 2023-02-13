@@ -12,7 +12,7 @@
 11-count number of directories and sub-directories
 12-show 10 newest files
 13-sorts out unique words
-14-
+14-display lines with "root" in file
 15-
 16-
 17-
