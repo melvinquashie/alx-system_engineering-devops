@@ -11,7 +11,7 @@
 10-delete all js files
 11-count number of directories and sub-directories
 12-show 10 newest files
-13-
+13-sorts out unique words
 14-
 15-
 16-
