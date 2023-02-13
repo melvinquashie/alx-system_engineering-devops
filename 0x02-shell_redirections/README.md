@@ -16,7 +16,7 @@
 15-count number of time 'bin' is in the text
 16-display line with "root" and 3 lines after
 17-hide lines with "bin"
-18-
+18-display all lines starting with a letter
 19-
 20-
 21-
