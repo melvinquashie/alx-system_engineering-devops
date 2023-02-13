@@ -13,7 +13,7 @@
 12-show 10 newest files
 13-sorts out unique words
 14-display lines with "root" in file
-15-
+15-count number of time 'bin' is in the text
 16-
 17-
 18-
