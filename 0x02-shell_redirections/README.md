@@ -10,7 +10,7 @@
 9-duplicate last line of iacta
 10-delete all js files
 11-count number of directories and sub-directories
-12-
+12-show 10 newest files
 13-
 14-
 15-
