@@ -1,6 +1,6 @@
 0-print "Hello, World"
 1-display confused smiley
-2-
+2-display etc/passwd file
 3-
 4-
 5-
