@@ -20,5 +20,5 @@
 19-replace A with Z and c with e
 20-remove C and c
 21-reverse input
-
+22-display users and their homes
 
