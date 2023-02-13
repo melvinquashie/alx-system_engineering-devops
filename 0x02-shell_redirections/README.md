@@ -22,3 +22,4 @@
 21-reverse input
 22-display users and their homes
 23-100 finds all empty files
+24-101 list all files with .gif
