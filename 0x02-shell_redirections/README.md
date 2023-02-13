@@ -9,7 +9,7 @@
 8-ls -la into ls_cwd_content
 9-duplicate last line of iacta
 10-delete all js files
-11-
+11-count number of directories and sub-directories
 12-
 13-
 14-
