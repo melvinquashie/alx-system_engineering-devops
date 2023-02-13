@@ -15,7 +15,7 @@
 14-display lines with "root" in file
 15-count number of time 'bin' is in the text
 16-display line with "root" and 3 lines after
-17-
+17-hide lines with "bin"
 18-
 19-
 20-
