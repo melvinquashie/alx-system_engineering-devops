@@ -17,7 +17,7 @@
 16-display line with "root" and 3 lines after
 17-hide lines with "bin"
 18-display all lines starting with a letter
-19-
+19-replace A with Z and c with e
 20-
 21-
 
