@@ -6,6 +6,6 @@
 5-display first 10 lines
 6-prints 3rd line of iacta
 7-create file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-8-
+8-ls -la into ls_cwd_content
 9-
 
