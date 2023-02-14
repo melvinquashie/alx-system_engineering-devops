@@ -12,5 +12,5 @@
 11-change from Binary to decimal
 12-print all possible combos from of 2 letters except oo
 13-prints a number with 2 decimal places followed by a new line
-14-
+100-from decimal to hex
 
