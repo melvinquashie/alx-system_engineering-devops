@@ -2,7 +2,7 @@
 1-hello current user
 2-add /action to PATH
 3-counts number of directories in PATH
-4-
+4-list all environment variables
 5-
 6-
 7-
