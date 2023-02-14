@@ -9,7 +9,7 @@
 8-add 128 to TRUEKNOWLEDGE variable
 9-divide power by divide
 10-BREATH to the power LOVE
-11-
+11-change from Binary to decimal
 12-
 13-
 14-
