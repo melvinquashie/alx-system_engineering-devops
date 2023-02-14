@@ -7,7 +7,7 @@
 6-create variablle BEST with value School
 7-create global variable BEST with value School
 8-add 128 to TRUEKNOWLEDGE variable
-9-
+9-divide power by divide
 10-
 11-
 12-
