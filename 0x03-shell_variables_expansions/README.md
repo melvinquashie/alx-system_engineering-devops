@@ -4,7 +4,7 @@
 3-counts number of directories in PATH
 4-list all environment variables
 5-list all local vars and environment vars and functions
-6-
+6-create variablle BEST with value School
 7-
 8-
 9-
