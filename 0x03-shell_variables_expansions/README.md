@@ -6,7 +6,7 @@
 5-list all local vars and environment vars and functions
 6-create variablle BEST with value School
 7-create global variable BEST with value School
-8-
+8-add 128 to TRUEKNOWLEDGE variable
 9-
 10-
 11-
