@@ -1,5 +1,5 @@
 1-script that creates alias ls
-2-
+2-hello current user
 3-
 4-
 5-
