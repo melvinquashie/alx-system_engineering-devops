@@ -3,7 +3,7 @@
 2-add /action to PATH
 3-counts number of directories in PATH
 4-list all environment variables
-5-
+5-list all local vars and environment vars and functions
 6-
 7-
 8-
