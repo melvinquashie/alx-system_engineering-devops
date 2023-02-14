@@ -10,7 +10,7 @@
 9-divide power by divide
 10-BREATH to the power LOVE
 11-change from Binary to decimal
-12-
+12-print all possible combos from of 2 letters except oo
 13-
 14-
 
