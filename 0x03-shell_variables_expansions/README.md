@@ -1,6 +1,6 @@
 1-script that creates alias ls
 2-hello current user
-3-
+3-add /action to PATH
 4-
 5-
 6-
